@@ -1,6 +1,5 @@
 ID;Nombre;Apellidos;AsignaturaMonitoria;DiasAtencion
 1;A;B;x;L
-2;D;H;y;L,M
-3;C;M;z;Mi,J
-4;E;R;w;V,L
-  
+2;D;H;y;L
+3;C;M;z;Mi
+4;E;R;w;V
